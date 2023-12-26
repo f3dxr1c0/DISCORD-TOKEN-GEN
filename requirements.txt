@@ -1,2 +1,4 @@
 To receive the tokens you need to write in the terminal (of VS Code):
 py .\main.py
+
+* FIND THE PHOTO IN THE COMMENTS *
