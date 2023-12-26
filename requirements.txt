@@ -1,0 +1,2 @@
+To receive the tokens you need to write in the terminal (of VS Code):
+# py .\main.py
